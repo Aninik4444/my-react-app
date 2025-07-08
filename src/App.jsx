@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <div>
+        {console.log('server running...')}
       <h1>hello world 111</h1>
       </div>
     </>
